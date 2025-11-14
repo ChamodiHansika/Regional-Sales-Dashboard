@@ -33,7 +33,7 @@ The project visualizes how **discounts, promotions, and payment methods** influe
 
 
 ## 🖼️ Screenshots  
-*(Add your exported dashboard images here — for example, upload them to the repo and link below)*
+*(https://github.com/ChamodiHansika/Regional-Sales-Dashboard/blob/main/Reginal%20Sale%20Image.png)*
 
 ![Regional Sales Overview](./images/dashboard-overview.png)  
 ![Sales by Region Map](./images/sales-map.png)
