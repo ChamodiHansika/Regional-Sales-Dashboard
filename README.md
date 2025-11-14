@@ -46,7 +46,7 @@ The project visualizes how **discounts, promotions, and payment methods** influe
 ## 📎 Author  
 **Chamodi Perera**  
 📧 chamodi.perera@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn][https://linkedin.com/in/your-link](https://www.linkedin.com/in/chamodihansika/) | [GitHub][https://github.com/yourusername](https://github.com/ChamodiHansika)
 
 ---
 
