@@ -35,13 +35,10 @@ The project visualizes how **discounts, promotions, and payment methods** influe
 ## 🖼️ Screenshots  
 *(https://github.com/ChamodiHansika/Regional-Sales-Dashboard/blob/main/Reginal%20Sale%20Image.png)*
 
-![Regional Sales Overview](./images/dashboard-overview.png)  
-![Sales by Region Map](./images/sales-map.png)
-
 ---
 
 ## 🌐 Dashboard Link  
-[🔗 View Power BI Dashboard](https://app.powerbi.com/...)  
+[🔗 View Power BI Dashboard][(https://app.powerbi.com/...)](https://github.com/ChamodiHansika/Regional-Sales-Dashboard/blob/main/Regional%20Sales%20Data.pbix)  
 *(Replace with your published Power BI dashboard link or embed code once uploaded)*
 
 ---
